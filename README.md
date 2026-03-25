@@ -2,15 +2,15 @@
 
 A premium, high-performance video learning platform built with **React**, **Vite**, and **Tailwind CSS**. This project features a modern feature-based architecture, full mobile responsiveness, and clean, human-written code.
 
-## 🚀 Key Features
+## Key Features
 
-- **📱 Fully Responsive**: Optimized for all devices, from mobile phones to high-resolution desktops.
-- **✨ Premium UI/UX**: Modern design with consistent branding, smooth transitions, and intuitive navigation.
-- **🏗️ Scalable Architecture**: Organized using a feature-based structure for easy maintenance and expansion.
-- **🧹 Clean Code**: Refactored to remove AI-generated artifacts and comments, adhering to professional coding standards.
-- **💳 Complete Flow**: Includes course browsing, product details, payment checkout, and student dashboards.
+- **Fully Responsive**: Optimized for all devices, from mobile phones to high-resolution desktops.
+- **Premium UI/UX**: Modern design with consistent branding, smooth transitions, and intuitive navigation.
+- **Scalable Architecture**: Organized using a feature-based structure for easy maintenance and expansion.
+- **Clean Code**: Refactored to remove AI-generated artifacts and comments, adhering to professional coding standards.
+- **Complete Flow**: Includes course browsing, product details, payment checkout, and student dashboards.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend**: React 18+
 - **Build Tool**: Vite
@@ -18,7 +18,7 @@ A premium, high-performance video learning platform built with **React**, **Vite
 - **Icons**: Lucide React
 - **Routing**: React Router DOM
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 video-belajar-full/
@@ -36,7 +36,7 @@ video-belajar-full/
 └── README.md             # This file
 ```
 
-## 🚥 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -69,6 +69,6 @@ npm run build
 
 The output will be generated in the `app/dist/` directory.
 
-## 📄 License
+## License
 
 This project is for educational purposes. All rights reserved.
